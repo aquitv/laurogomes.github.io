@@ -3,7 +3,7 @@
 #################################################################################
 
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/animal_planet.png" group-title="Documentarios",Animal Planet HD
-http://srv.tvprodigital.net:25461/live/asxldenf/Scq6Gwz837/6142.m3u8
+https://cdnst14.tokyvideo.com/videos/246/246158/mp4/df04348b2c007ca19cf2b8b895f64d1b50b535467c7877ebd7c5fae5737a4d7d.mp4?secure=3w6PFAlRjAq-fRXxJaR4Ww%3D%3D%2C1725574870
 
 #EXTINF:-1 tvg-id="Animal Planet SD" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/animal_planet.png" group-title="Documentarios",Animal Planet SD
 http://painel1.diamanteiptv.top:25461/live/8488662555/WH658zxoyM/14305.m3u8
